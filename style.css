@@ -23,7 +23,7 @@ h2 {
     font-size: 22px;
     padding: 6px 16px;
     margin: 10px;
-    width: 350px;
+    width: auto;
     outline: none;
 }
 
@@ -34,9 +34,10 @@ h2 {
     text-align: center;
     outline: none;
     margin-top: 20px;
+    margin-bottom: 30px;
 }
 
-table{
-    width: 100%;
-    margin: auto;
+ul li {
+    margin-left: 40%;
+    font-size: 18px;
 }
